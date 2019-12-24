@@ -3,10 +3,10 @@
 #
 # url: http://localhost:4000
 # baseurl: ""
-url: http://ttskch.github.io
-baseurl: /jekyll-ttskch-theme
-title: Your name
-description: Some descriptions of yourself.
+url: http://fuxianting.github.io
+baseurl: /jekyll-FXT-theme
+title: Fu xianting
+description: I'm from Chongqing University of Education,major in English.I have many hobbies:badminton,reading,Computer Games
 avatar: /assets/img/ogp.png
 # favicon: /favicon.ico
 favicon: /assets/img/ogp.png
@@ -18,10 +18,10 @@ language: en
 #
 icons:
   rss: true
-  email:
-  github: ttskch
+  email: 1216471422@qq.com
+  github: fuxianting
   bitbucket:
-  twitter: ttskch
+  twitter: fuxianting
   facebook:
   google_plus:
   tumblr:
@@ -78,7 +78,7 @@ share_buttons:
   facebook: false # needs ogp.fb.app_id
   hatena: false
 ogp:
-  image_url: //ttskch.github.io/jekyll-ttskch-theme/assets/img/ogp.png
+  image_url: //fuxianting.github.io/jekyll-FXT-theme/assets/img/ogp.png
   fb:
     admin: # facebook admin id
     app_id: # facebook application id
